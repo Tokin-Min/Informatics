@@ -1,0 +1,5 @@
+﻿  итерации.cpp
+C:\Users\Варя\Desktop\repos\итерации\итерации\итерации.cpp(19,10): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Варя\Desktop\repos\итерации\итерации\итерации.cpp(30,9): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Варя\Desktop\repos\итерации\итерации\итерации.cpp(35,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  итерации.vcxproj -> C:\Users\Варя\Desktop\repos\итерации\x64\Debug\итерации.exe
